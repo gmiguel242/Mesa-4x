@@ -1,7 +1,7 @@
-/* =========================================================
-   Mesa 4X — Design tokens
-   Paleta: grafite, off-white e laranja. Sem azul.
-   ========================================================= */
+/*
+ * Mesa 4X — Design Tokens
+ * Identidade visual: grafite, off-white e laranja.
+ */
 :root {
   color-scheme: dark;
   --color-bg: #171914;
